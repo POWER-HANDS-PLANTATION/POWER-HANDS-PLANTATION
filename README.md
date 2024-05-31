@@ -67,18 +67,18 @@
 
 ---
 
-|**[`Prabath Kumara`](https://github.com/prabathLK)**|
+|**[`CYBER RUKSHAN`]**|
 
 ---
 
 <a href="https://github.com/SACHIBOT"><img src="https://avatars.githubusercontent.com/u/91013948?v=4" width=80 height=80></a> 
 
-|**[`Sachintha Rashan`](https://github.com/SACHIBOT)**|
+|**[`THARIDU and CHANGRAPALA SIR`]**|
 
 ---
 
 ## ❤️‍🩹 Special Thanks to
-* [`vihangayt0`](https://github.com/vihangayt0/)
+* |**[`MAHESH SIR`]**|
 
 <br>
 <br>
