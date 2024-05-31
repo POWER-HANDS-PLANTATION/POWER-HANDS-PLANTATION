@@ -28,9 +28,9 @@
 
 ![repo views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FprabathLK%2FPRABATH-MD&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)
 
-![forks](https://img.shields.io/github/forks/prabathLK/PRABATH-MD?label=Forks&style=social)
+![forks](https://img.shields.io/github/forks/prabathLK/POWER-HANDS-PLANTATION?label=Forks&style=social)
 
-![stars](https://img.shields.io/github/stars/prabathLK/PRABATH-MD?style=social)
+![stars](https://img.shields.io/github/stars/power-hands-plantation/POWER-HANDS-PLANTATION?style=social)
 
 
 
@@ -48,22 +48,22 @@
 
 <br>
 
-[![FORK PRABATH-MD](https://img.shields.io/badge/FORK%20-PRABATH%20MD-white)](https://github.com/prabathLK/PRABATH-MD/fork)
+[![FORK POWER-HANDS-PLANTATION](https://img.shields.io/badge/FORK%20-PRABATH%20MD-white)](https://github.com/POWER-HANDS-PLANTATION/POWER-HANDS-PLANTATION/fork)
 
  ---
  
-<a href="https://prabath-md-terms-and-rules.vercel.app/"><img src="https://img.shields.io/badge/Read%20Our%20Terms%20and%20Conditions-red" alt="DEPLOY" width="270"></a>
+<a href="https://power-hands-plantation-terms-and-rules.vercel.app/"><img src="https://img.shields.io/badge/Read%20Our%20Terms%20and%20Conditions-red" alt="DEPLOY" width="270"></a>
 
 ---
 
-<a href="https://www.buymeacoffee.com/PrabathKumara" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<a href="https://www.buymeacoffee.com/cyberrukshan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 ---
 
-## 👑 **`RUKSHAN TRAIN SITE OWNERS,`** 👑
+## 👑 **`SITE OWNERS RUKSHAN,`** 👑
 
 
-   <a href="https://github.com/prabathLK/"><img src="https://avatars.githubusercontent.com/u/106251140?v=4" width=80 height=80></a>   
+   <a href="https://github.com/POWER-HANDS-PLANTATION/POWER-HANDS-PLANTATION"><img src="https://avatars.githubusercontent.com/u/106251140?v=4" width=80 height=80></a>   
 
 ---
 
@@ -71,7 +71,7 @@
 
 ---
 
-<a href="https://github.com/SACHIBOT"><img src="https://i.postimg.cc/15gw2dFc/Screenshot-20240531-120909.png" width=80 height=80></a> 
+<a href="https://github.com/POWER-HANDS-PLANTATION/POWER-HANDS-PLANTATION"><img src="https://i.postimg.cc/15gw2dFc/Screenshot-20240531-120909.png" width=80 height=80></a> 
 
 |**[`THARIDU and CHANGRAPALA SIR`]**|
 
@@ -91,6 +91,6 @@
 
 
 
-`Released date:- 2023.08.24`
+`Released date:- 2024.05.31`
 <br>
-`latest updated date:- 2024.05.25`
+`latest updated date:- 2024.05.31`
