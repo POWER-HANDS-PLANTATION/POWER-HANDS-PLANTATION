@@ -82,7 +82,9 @@
 
 ---
 
-<a href="https://github.com/SACHIBOT"><img src="https://avatars.githubusercontent.com/u/91013948?v=4" width=80 height=80></a> 
+<a href="https://i.postimg.cc/15gw2dFc/Screenshot-20240531-120909.png---
+
+<a href="https://github.com/SACHIBOT"><img src="https://avatars.githubusercontent.com/u/91013948?v=4" width=80 height=80></a> "><img src="https://avatars.githubusercontent.com/u/91013948?v=4" width=80 height=80></a> 
 
 <br>
 <br>
