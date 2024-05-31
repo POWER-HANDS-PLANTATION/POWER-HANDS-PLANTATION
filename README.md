@@ -71,7 +71,7 @@
 
 ---
 
-<a href="https://github.com/SACHIBOT"><img src="https://avatars.githubusercontent.com/u/91013948?v=4" width=80 height=80></a> 
+<a href="https://github.com/SACHIBOT"><img src="https://i.postimg.cc/15gw2dFc/Screenshot-20240531-120909.png" width=80 height=80></a> 
 
 |**[`THARIDU and CHANGRAPALA SIR`]**|
 
@@ -79,6 +79,10 @@
 
 ## ❤️‍🩹 Special Thanks to
 * |**[`MAHESH SIR`]**|
+
+---
+
+<a href="https://github.com/SACHIBOT"><img src="https://avatars.githubusercontent.com/u/91013948?v=4" width=80 height=80></a> 
 
 <br>
 <br>
