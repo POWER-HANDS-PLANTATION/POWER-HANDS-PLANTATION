@@ -171,7 +171,7 @@ cmd({
             };
             let res = await axios.post("https://bot.lyo.su/quote/generate", body);
             let img = Buffer.alloc(res.data.result.image.length, res.data.result.image, "base64");
-            return citel.reply(img,{packname:'Izuku',author:'Quotely'},"sticker")
+            return citel.reply(img,{packname:'power hands',author:'Quotely'},"sticker")
 
         }
     )
@@ -212,7 +212,7 @@ cmd({
                 let text = tiny(
                     "Fancy text generator\n\nExample: .fancy 46 Izuku\n\n"
                 );
-                listall("IZUKU BOT").forEach((txt, num) => {
+                listall("POWER-HANDS BOT").forEach((txt, num) => {
                     text += `${(num += 1)} ${txt}\n`;
                 });
                 return await citel.reply(text);
