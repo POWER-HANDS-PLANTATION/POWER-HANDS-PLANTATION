@@ -31,8 +31,7 @@
   5.  Clone Repo and install required packages
 
       ```
-      git clone https://github.com/darkewing/DARK-EWING
-      cd DARK-EWING
+      git clone https://github.com/POWER-HANDS-PLANTATION/POWER-HANDS-PLANTATION
       yarn install --network-concurrency 1
       ```
 
@@ -46,10 +45,10 @@
       copy paste lines below.
 
       ```
-      OWNER_NUMBER="94767533889"
+      OWNER_NUMBER="94703792689"
       MONGODB_URI="mongodb+srv://*************"
       SESSION_ID = "secktorbot.herokuapp.com/session"
-      THUMB_IMAGE = "https://telegra.ph/file/cf19902f6b57a00fcd56b.jpg"
+      THUMB_IMAGE = "https://telegra.ph/file/a20cc9c798c6c28fa9cd5.jpg"
       port = 5000
       email = "sam@secktor.live"
       global_url = "instagram.com"
