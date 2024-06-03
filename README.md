@@ -1,17 +1,17 @@
 
-## DARK EWING BOT BY CYBER DEXTER AND CYBER AMDA
+## POWER HANDS MD BOT BY CYBER DEXTER AND CYBER RUKSHAN
 <br>
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=HI+IAM+POWER╺+HANDS+-+BOT.;POWERD+BY:+MR+CYBER.KING.TEAM;CREATED+BY:+MR.RUKSHAN;MR:+DEXTER࿐;💕ඉතිං+ඔයල🙃;😁හොදින්+ඉන්නවානේ🧚)](https://git.io/typing-svg)
 
  <p align="center">  
   <a href="https://youtu.be/It-Ak-aSx0c">
-    <img alt="secktor docs" height="300" src="https://telegra.ph/file/8b610e9a781dc777c9fff.jpg">
+    <img alt="secktor docs" height="300" src="https://telegra.ph/file/a20cc9c798c6c28fa9cd5.jpg">
     <h1 align="center">POWER-HANDS</h1>
   </a>
 </p>  
 <p align="center">
-  <a aria-label="Join our chats" href="https://wa.me/message/H7RFW6UXDKIBD1" target="_blank">
+  <a aria-label="Join our chats" href="https://wa.me//94703792689" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 <a aria-label="Bot Whatsapp" href="[https://chat.whatsapp.com/FCneKWThUwt0OtyJnup8d8](https://wa.me/94767533889?text=.menu)" target="_blank">
