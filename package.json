@@ -1,5 +1,5 @@
 {
-  "name": "Dark-Ewing",
+  "name": "POWER-HANDS-PLANTATION",
   "version": "0.0.7",
   "description": "Multi device whatsapp bot by Dark ewing team.",
   "main": "lib/client.js",
@@ -74,10 +74,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/darkewing/DARK-EWING.git"
+    "url": "git+https://github.com/POWER-HANDS-PLANTATION/POWER-HANDS-PLANTATION.git"
   },
   "bugs": {
-    "url": "https://github.com/darkewing/DARK-EWING/issues"
+    "url": "https://github.com/POWER-HANDS-PLANTATION/issues"
   },
-  "homepage": "https://github.com/darkewing/DARK-EWING#readme"
+  "homepage": "https://github.com/POWER-HANDS-PLANTATION/POWER-HANDS-PLANTATION#readme"
 }
