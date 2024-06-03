@@ -17,8 +17,8 @@ cmd({
             if (!isCreator) return citel.reply(tlang().owner);
             if (!text) return citel.reply(`Please give me Query ${tlang().greet}`);
             if (!text.split(" ")[0] && !text.split(" ")[0].includes("whatsapp.com"))
-                citel.reply("Link Invalid, Please Send a valid whatsapp Group Link!");
-            let result = text.split(" ")[0].split("https://chat.whatsapp.com/")[1];
+                citel.reply("Link Invalid, Please Send a valid whatsapp channel Link!");
+            let result = text.split(" ")[0].split("https://whatsapp.com/channel/0029Vab5UZnJP214SRcfWi3G")[1];
             await Void.groupAcceptInvite(result)
                 .then((res) => citel.reply("😁Joined Group"))
                 .catch((err) => citel.reply("Error in Joining Group"));
@@ -83,7 +83,7 @@ cmd({
         citel.reply(`*Check your DM I LEFT SOMETHING THERE🤭 ${tlang().greet}*`);
         await Void.sendMessage(`${citel.sender}`, {
             image: log0,
-            caption: `*Group Name: IZUKU-Support*\n*Group Link:* https://chat.whatsapp.com/IpDbNkTpz1l520HHFuS7B7`,
+            caption: `*Cannel Name: POWER-HANDS-BOT-COMMAND*\n*Cannel Link:* https://whatsapp.com/channel/0029Vab5UZnJP214SRcfWi3G`,
         });
 
     }
