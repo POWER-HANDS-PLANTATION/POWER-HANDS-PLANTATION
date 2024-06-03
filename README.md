@@ -45,14 +45,14 @@
 <br>
 
 
- **[`Visit this site to easily deploy bots and get deployment videos`](tiktok.com/@_cyber_hr_king)**
+ **[`Visit this site to easily deploy bots and get deployment videos`](https://www.youtube.com/@ruka_quotes)**
 
 
-**[CYBER-AMDA OFFICIAL](https://www.youtube.com/@cyber_amda)**
+**[CYBER-RUKSHAN OFFICIAL](https://www.youtube.com/@ruka_quotes)**
 <br>
 <br>
 
-**[🚀 Join Our WhatsApp group](https://chat.whatsapp.com/FCneKWThUwt0OtyJnup8d8)**
+**[🚀 Join Our WhatsApp channel](https://whatsapp.com/channel/0029Vab5UZnJP214SRcfWi3G)**
 <br>
 <br>
 
@@ -76,11 +76,11 @@
 
  <a href="tiktok.com/@_cyber_hr_king/"><img src="https://telegra.ph/file/ff9d0311e2d4f2baa37f8.jpg" width=80 height=80></a>   
 
-## **`CYBER-DEXTER-AND-CYBER AMDA-MD BOT OWNERS,`**
+## **`CYBER-DEXTER-AND-CYBER RUKSHAN-MD BOT OWNERS,`**
 
 
 ## Special Thanks to
-* [`DEXTER_RUKSHAN_`](tiktok.com/@_cyber_hr_king/)
+* [`DEXTER_RUKSHAN_`](https://www.youtube.com/@ruka_quotes)
 * <a href="https://www.youtube.com/@cyber_amda"><img src="https://telegra.ph/file/7f195320e3e886ca4ae27.jpg" width=80 height=80></a> 
 ---
 
@@ -91,10 +91,10 @@
 <br>
 
 
-![license](https://telegra.ph/file/7f195320e3e886ca4ae27.jpg?color=green&label=License&style=plastic)
+![license](https://telegra.ph/file/a20cc9c798c6c28fa9cd5.jpg?color=green&label=License&style=plastic)
 
 
 
-`Release date:- 2023.11.27`
+`Release date:- 2024.06.03`
 <br>
 `Latest updated date:- NO UPDATE`
