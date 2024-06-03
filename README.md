@@ -61,7 +61,7 @@
 
 ## QR SCAN
 
-<a href="https://replit.com/@CYBER-DEXTER-MD/DARK-EWING/"><img src="https://img.shields.io/badge/LOGIN%20WITH-QR%20CODE-black" alt="LOGIN WITH QR CODE" width="250"></a>
+<a href="https://replit.com/@ashendilshan463/POWER-HANDS-PLANTATION?v=1"><img src="https://img.shields.io/badge/LOGIN%20WITH-QR%20CODE-black" alt="LOGIN WITH QR CODE" width="250"></a>
 
 
 ## DEPLOY IN HEROKU
@@ -78,7 +78,8 @@
 ## **`CYBER-DEXTER-AND-CYBER RUKSHAN-MD BOT OWNERS,`**
 
 
-## Special Thanks to
+##Special Thanks to                    
+  
 * [`DEXTER_RUKSHAN_`](https://www.youtube.com/@ruka_quotes)
 * <a href="https://www.youtube.com/@cyber_amda"><img src="https://telegra.ph/file/7f195320e3e886ca4ae27.jpg" width=80 height=80></a> 
 ---
