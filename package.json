@@ -1,13 +1,13 @@
 {
   "name": "POWER-HANDS-PLANTATION",
   "version": "0.0.7",
-  "description": "Multi device whatsapp bot by Dark ewing team.",
+  "description": "Multi device whatsapp bot by Cyber King team.",
   "main": "lib/client.js",
   "type": "commonjs",
   "license": "GPL-3.0",
   "scripts": {
     "start": "pm2 start lib/client.js --deep-monitoring --attach --name Ewing",
-    "stop": "pm2 stop Ewing"
+    "stop": "pm2 stop plantation"
   },
   "author": "Dexter/Rukshan",
   "dependencies": {
