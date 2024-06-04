@@ -38,7 +38,7 @@ cmd({
                 headerType: 4,
                 contextInfo: {
                     externalAdReply: {
-                        title: 'DARK-EWING  Session',
+                        title: 'POWER-HANDS-PLANTATION  Session',
                         body: 'Get you Session ID',
                         thumbnail: log0,
                         mediaType: 2,
@@ -236,11 +236,11 @@ cmd({
             let alivemessage = Config.ALIVE_MESSAGE || `*A bot developed by EXCEL.*`
             const alivtxt = `
 *Hello, ${citel.pushName},*
-*_DARK EWINGS MD_* 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐁𝐎𝐓  🚫⚠️✅\nHᴇʟʟᴏ.....👋\nI'ᴍ Aʟɪᴠᴇ Nᴏᴡ...🙋‍♀️💗\n\n⚠️ OWNER 🐼\n*⚙️ OWNER ❶* 
+*_POWER HANDS PLAPLANTATION_* 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐁𝐎𝐓  🚫⚠️✅\nHᴇʟʟᴏ.....👋\nI'ᴍ Aʟɪᴠᴇ Nᴏᴡ...🙋‍♀️💗\n\n⚠️ OWNER 🐼\n*⚙️ OWNER ❶* 
 
-➥ *https://Wa.me//+94767533889🧸?text=𝐑𝐔𝐊𝐒𝐇𝐀𝐍_𝐌𝐃_➤🇱🇰*\n*⚙️ *OWNER ❷*
+➥ *https://Wa.me//+94703792689🧸?text=𝐑𝐔𝐊𝐒𝐇𝐀𝐍_𝐌𝐃_➤🇱🇰*\n*⚙️ *OWNER ❷*
 
-➥ *https://Wa.me//+94787102936🧸?text=DEXTER_𝐌𝐃_➤🇱🇰*\n\n⚙️
+➥ *https://Wa.me//+94770730717🧸?text=DEXTER_𝐌𝐃_➤🇱🇰*\n\n⚙️
 *📍Version:-* _0.0.7_
 *🕐Uptime:-* _${runtime(process.uptime())}_
 *👤Owner:-* _${Config.ownername}_
@@ -252,23 +252,23 @@ cmd({
 ├ 📥 *DOWNLOAD CMD :-.SONG,.YT,.APK* 
 ├ 📌 *PANEL:-.PANEL*
 ├ ♣️ *LOGO :-.LOGO*
-├ 🕊️ *DARK EWING MD BOT* ❤‍🩹
+├ 🕊️ *POWER HANDS PLANTATION BOT* ❤‍🩹
 └───────────────────────
 ┌───────────────────────
-├ ⚙️ *BOT  DEPLOY*➤*https://github.com/darkewing/DARK-EWING*
+├ ⚙️ *BOT  DEPLOY*➤*https://github.com/POWER-HANDS-PLANTATION/POWER-HANDS-PLANTATION*
 ├───────────────────────
-│ *✆SUPPORT GROUPE:-https://chat.whatsapp.com/E8SGBZBS54j5iFbUOIXwXE* 
+│ *✆SUPPORT CHANNEL:-https://whatsapp.com/channel/0029Vab5UZnJP214SRcfWi3G* 
 └──────────────────────
 *🗓️Type .menu for my command list.*
-*📥DEPLOY VIDEO:-https://www.youtube.com/@cyber_amda*
-*_🛜𝚸𝚯𝐖𝚵𝚪𝚵𝐃 𝚩Y  FLAZY AND DEXTER*
+*📥DEPLOY VIDEO:-https://www.youtube.com/@ruka_quotes*
+*_🛜𝚸𝚯𝐖𝚵𝚪𝚵𝐃 𝚩Y  RUKSHAN AND DEXTER*
 
 ♡ ㅤ      ❍ㅤ        ⎙ㅤ    ⌲ 
 ˡᶦᵏᵉ     ᶜᵒᵐᵐᵉⁿᵗ     ˢᵃᵛᵉ    ˢʰᵃʳᵉ\n_Powered by ${Config.ownername}_
 `;
             let aliveMessage = {
                 image: {
-                    url: 'https://telegra.ph/file/a0a9059b766d72e632634.jpg',
+                    url: 'https://telegra.ph/file/a20cc9c798c6c28fa9cd5.jpg',
                 },
                 caption: alivtxt,
                 footer: tlang().footer,
