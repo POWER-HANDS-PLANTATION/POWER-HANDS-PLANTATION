@@ -30,7 +30,7 @@ cmd({
             category: "downloader",
 	    react: "✅",
             filename: __filename,
-            use: '<Hii,this is dark ewing>',
+            use: '<Hii,this is power hands>',
         },
         async(Void, citel, text) => {
             if (!text) return citel.reply('Please give me a Sentence to change into audio.')
