@@ -78,9 +78,9 @@
 ## **`CYBER-DEXTER-AND-CYBER RUKSHAN-MD BOT OWNERS,`**
 
 
-##Special Thanks to                    
+## Special Thanks to                    
   
-* [`DEXTER_RUKSHAN_`](https://www.youtube.com/@ruka_quotes)
+* ## [`DEXTER_RUKSHAN_`](https://www.youtube.com/@ruka_quotes)
 * <a href="https://www.youtube.com/@cyber_amda"><img src="https://telegra.ph/file/7f195320e3e886ca4ae27.jpg" width=80 height=80></a> 
 ---
 
