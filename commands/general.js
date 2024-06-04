@@ -119,9 +119,9 @@ cmd({
 ╭┈─────────────────────    .· * • ˚
 │ *⭐ Total Stars*: ${data.stargazers_count} stars
 │ *🍴 Forks*: ${data.forks_count} forks
-│ *📡 Repo*: https://github.com/darkewing/DARK-EWING
+│ *📡 Repo*: https://github.com/POWER-HANDS-PLANTATION/POWER-HANDS-PLANTATION
 │ *🏘Group*: https://chat.whatsapp.com/JzQlteOHVzx9ELq5kPZzY6
-│ *🧑‍💻Deploy EWING MD*:https://github.com/excelottah6/DARK-EWING
+│ *🧑‍💻Deploy EWING MD*:https://github.com/POWER-HANDS-PLANTATION/POWER-HANDS-PLANTATION
 ╰──────────────────────✬      * ˚  ✶`
         let buttonMessaged = {
             image: { url: await botpic() },
