@@ -2,7 +2,7 @@
   "name": "POWER-HANDS-MD ",
   "description": "A Whatsapp md bot built in NodeJs to make experience better",
   "logo": "https://telegra.ph/file/a20cc9c798c6c28fa9cd5.jpg",
-  "keywords": ["nodejs", "bot", "whatsapp bot", "GARENA", "EwingBot", "Secktor","EWINGMD","theme bot","multi device","baileys","excel"],
+  "keywords": ["nodejs", "bot", "whatsapp bot", "GARENA", "EwingBot", "Secktor","POWER-HANDS-PLANTATION","theme bot","multi device","baileys","excel"],
   "success_url": "/",
   "stack": "container",
 "env": {
